@@ -1,6 +1,6 @@
   /*la taille des elements inclus les margin et padding*/
-    box-sizing: border-box;
-}
+  /*   box-sizing: border-box;*/
+ /*}*/
 
 html {
     scroll-behavior: smooth;
