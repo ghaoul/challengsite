@@ -50,7 +50,7 @@ header a {
 /**NAVBAR**/
 
 .navbar {
-    display: flex;
+    display: inline-flexbox;
     justify-content: space-between;
     height: 100%;
     width: 100%;
